@@ -1,6 +1,7 @@
 # RevealLoader2
 
 [RevealLoader](https://github.com/heardrwt/RevealLoader) 的升级版，增加了对 rootless 越狱设备的支持。理论上支持的版本是 iOS 7.0 - iOS 17.5。但是作者只有 iOS 12.5.7 的 rootful 越狱和 iOS 16.7.10 的 rootless 越狱设备。都已成功运行。
+设备：IOS 14.7.1 有根运行成功
 
 <!--其实对于越狱开发来说，目前更推荐使用 Lookin 查看 UI ，Lookin 支持命令调试，可以直接在 Lookin 调试 UI。Lookin Loader 作者也已经发布并开源了。-->
 
