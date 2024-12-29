@@ -1,11 +1,10 @@
 ifeq ($(THEOS_PACKAGE_SCHEME),rootless)
-TARGET := iphone:clang:17.5:15.0
+TARGET := iphone:clang:16.5:15.0
 else
 TARGET := iphone:clang:13.7:7.0
 endif
 
 INSTALL_TARGET_PROCESSES = Preferences SpringBoard
-
 
 include $(THEOS)/makefiles/common.mk
 

@@ -4,17 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/RevealServer-Swift.h</key>
+		<data>
+		KvejJgDjTak5ae7xx+8ARFbT+Mk=
+		</data>
 		<key>Headers/RevealServer.h</key>
 		<data>
 		JavE2LI6bNGfH9W90/bDxwIxVlg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		F9vfSJM8y1kGJ5rBPF4DjAdgyXU=
+		28KBKhaNO0YUcJlhHBaRXWDszF4=
+		</data>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		hUukBs0WiabpdrmhL5drx4hHPrk=
+		</data>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		ROP+P9AJ29yWsOWg4oHPRs2Ln7E=
+		</data>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		Vfk7Mh+FLZSQ7RXxdcvmOwNZD3Q=
+		</data>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		ROP+P9AJ29yWsOWg4oHPRs2Ln7E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		++4ILt01qhVYkiivRY9e1/vApMk=
+		W5Q122LAtjtguX+0GhA/6KdPVb8=
 		</data>
 		<key>Scripts/integrate_revealserver.sh</key>
 		<data>
@@ -23,6 +43,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/RevealServer-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			919q1fjJeKtQfoMQrhr8uXgvObX4sO6euMqgxzwKPUA=
+			</data>
+		</dict>
 		<key>Headers/RevealServer.h</key>
 		<dict>
 			<key>hash2</key>
@@ -30,11 +57,39 @@
 			weLK/65HyV1EiL9dd4xoAqQhf0/0r/Oy6os2nXCA+Ew=
 			</data>
 		</dict>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0G13yK7QKn5dT+J7snBqNoBO4csHBiMC4DR9/gO7nOA=
+			</data>
+		</dict>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZOnY+/ru20Y7HvZCQQwzLc1p/xF2ATRHToG35j9T7/A=
+			</data>
+		</dict>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ossxhg/TYhTpxbKtzN2fz7WkrQzZJpgvyZ5JPANSY2I=
+			</data>
+		</dict>
+		<key>Modules/RevealServer.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZOnY+/ru20Y7HvZCQQwzLc1p/xF2ATRHToG35j9T7/A=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jhCUclbTwRZfHbZszJ50bh8L3Hh6OZ+iJUzXp3vSQ8I=
+			kJjvA00ec825fo6+YCStfKr+SSSv0UcB+3l2hARDl40=
 			</data>
 		</dict>
 		<key>Scripts/integrate_revealserver.sh</key>

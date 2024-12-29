@@ -1,6 +1,6 @@
 #/bin/sh
 
-export DEVELOPER_DIR=/Applications/Xcode-11.7.app/Contents/Developer
+export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer
 make clean
 make package FINALPACKAGE=1
 
